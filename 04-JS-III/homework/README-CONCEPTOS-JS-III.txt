@@ -1,0 +1,1 @@
+Array = Un array, es como una lista en la cual podemos guardar todo tipo de datos (número, strings, booleanos, otros arrays, objetos, funciones). Al cual despues podemos acceder de manera "grupal" o individual.
