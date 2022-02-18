@@ -163,7 +163,7 @@ function empiezaConNueve(n) {
   //inicia con 9 y false en otro caso.
   //Escribe tu código aquí
   let str = n.toString();
-  if (str.startsWith("9")) {
+  if (str.startsWith('9')) {
     return true;
   } else {
     return false;
